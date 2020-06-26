@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.navbar{
+    background: #7952b3;
+}
+
+.start{
+    font-style: italic;
+}
+
+.btn{
+    border: 1px solid #7952b3;
+    height: 4rem;
+    font-size: 1.5rem;
+    padding-top: 0.8rem;
+}
+
+.btn:hover{
+    background: #7952b3;
+    color: #fff;
+}
